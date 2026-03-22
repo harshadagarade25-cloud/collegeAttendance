@@ -1,6 +1,6 @@
 // 1. SETTINGS: Set your Classroom Center (Get from Google Maps)
-const TARGET_LAT = 18.5204; 
-const TARGET_LON = 73.8567;
+const TARGET_LAT = 18.729484; 
+const TARGET_LON = 73.665344;
 const RADIUS = 0.0005; // Approx 50 meters
 
 const statusText = document.getElementById('status-text');
